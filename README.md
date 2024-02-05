@@ -1,4 +1,4 @@
-# Instalação do Carla Server 0. 9.13
+# Instalação do Carla Server 0.9.14
 
 O Carla Simulator é um simulador de condução autonoma que possibilita o estudo de sensoriamento veicular, sistemas de autonomos de direção, desenvolvimento de testes em situações adversas que apresentam riscos ao condutor. Tudo isso de forma gratuita (open-source), robusta e flexivel, o que o torna ideal para o desenvolvimento de projetos focados em sistemas de segurança veicular. 
 
